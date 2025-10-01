@@ -1,0 +1,5 @@
+KU Leuven IT is not so fond of custom user scripts, so we need to bypass some permissions. To install the software: 
+
+1. Copy HPLCDataAnalyze-Installer.exe to the GBW_MyDownloads folder like you're normally supposed to do for downloads. 
+2. Run it from there. 
+3. Always install for all users. You'll need administrator permissions to do so, via the admin tool on your desktop. 
